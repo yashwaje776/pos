@@ -229,8 +229,58 @@ npm run dev
 
 ## 📸 Screenshots
 
-*Add screenshots here*
+### 🖥️ Dashboard
+<p align="center">
+   <img src="./frontend/public/dashboard1.png" width="400"/>
+  <img src="./frontend/public/dashboard.png" width="400"/>
+</p>
 
+---
+
+### 🛒 Orders & Order Details
+<p align="center">
+  <img src="./frontend/public/orderpage.jpg" width="400"/>
+  <img src="./frontend/public/orderdetail.jpg" width="400"/>
+</p>
+
+---
+
+### 🍽️ Create Order & Menu
+<p align="center">
+  <img src="./frontend/public/createorder.jpg" width="400"/>
+  <img src="./frontend/public/menu.jpg" width="400"/>
+  <img src="./frontend/public/menumanagement.jpg" width="400"/>
+</p>
+
+---
+
+### 👨‍🍳 Kitchen Panel
+<p align="center">
+  <img src="./frontend/public/Kitchen.png" width="500"/>
+</p>
+
+---
+
+### 💳 Billing & Payments (Razorpay)
+<p align="center">
+  <img src="./frontend/public/billing.jpg" width="400"/>
+  <img src="./frontend/public/razorpay.jpg" width="400"/>
+</p>
+
+---
+
+### 📊 Analytics
+<p align="center">
+  <img src="./frontend/public/analytics.jpg" width="400"/>
+  <img src="./frontend/public/anlytics2.png" width="400"/>
+</p>
+
+---
+
+### 👥 Staff Management
+<p align="center">
+  <img src="./frontend/public/staff.jpg" width="400"/>
+</p>
 ---
 
 ## 🤝 Contributing
@@ -251,8 +301,8 @@ MIT License
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/your-username
+Yash Waje
+GitHub: [https://github.com/your-username](https://github.com/yashwaje776)
 
 ---
 
