@@ -302,7 +302,7 @@ MIT License
 ## 👨‍💻 Author
 
 Yash Waje
-GitHub: [https://github.com/your-username](https://github.com/yashwaje776)
+GitHub: [https://github.com/yashwaje776](https://github.com/yashwaje776)
 
 ---
 
