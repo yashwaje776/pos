@@ -172,7 +172,6 @@ export default function Kitchen() {
         try {
             const res = await getOrders();
             setOrders(res?.data?.data || []);
-            console.log("Fetched orders in Kitchen.jsx:", res?.data?.data || []);
         } catch (err) {
             console.error(err);
         }

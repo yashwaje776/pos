@@ -247,7 +247,6 @@ export default function Staff() {
         setLoading(true);
         const response = await getAllStaff();
         const data = response.data;
-        console.log("✅ All Staff:", data);
         if (data.success) {
           dispatch(setStaff(data.data));
         }
